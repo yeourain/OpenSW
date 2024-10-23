@@ -90,7 +90,7 @@ $ python main_final.py
 ```
 
 ## :checkered_flag: Starting - Common Client ##
-프로젝트 다운로드 후 dist/main_final 폴더 안에 있는 main_final.exe 파일 실행
+프로젝트 다운로드 후 dist/main_final 폴더 안에 있는 main_final.exe 파일 실행.
 
 ## :memo: License ##
 
